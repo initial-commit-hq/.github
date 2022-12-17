@@ -2,10 +2,10 @@
 
 🙋‍♀️ A short introduction - We build software products, websites, and manage cloud accounts.
     
-      - [X] Google Cloud Platform.
-      - [X] Microsoft Azure.
+ - [X] Google Cloud Platform.
+ - [X] Microsoft Azure.
       
-      We manage container registries and build automations.
+ We manage container registries and build automations.
     
 🌈 Contribution guidelines -  Not yet ready.
 
