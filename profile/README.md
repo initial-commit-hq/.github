@@ -1,19 +1,17 @@
 ## Initial Commit.
 
-🙋‍♀️ A short introduction - We build software products, websites, and manage cloud accounts.
+A short introduction - 
+### We build software products, websites, and manage cloud accounts.
     
  - [X] Google Cloud Platform.
+ - [X] AWS - Amazon web services.
  - [X] Microsoft Azure.
       
  We manage container registries and build automations.
     
-🌈 Contribution guidelines -  Not yet ready.
-
-👩‍💻 Useful resources - Will link up soon.
-
-🍿 Fun facts - what does your team eat for breakfast?
-
-
-Contact us:
-- [p000ic](https://github.com/p000ic)
-- [skshiva](https://github.com/skshiva)
+### Our `A-Team`:
+- [Pushpahas Janardhan](https://github.com/p000)
+- [Shiva Kumar](https://github.com/skshiva)
+- [Gautham Kumar](https://github.com/goutham-022)
+- [Mithun Bharadwaj](https://github.com/mithun1991)
+- [Bhanu Prakash](https://github.com/b000cw)
